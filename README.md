@@ -7,7 +7,7 @@ For a new release first make a tag:
  git push --follow-tags
 ```
 
-Run the project with MLFlow and w&b:
+Run the project with MLFlow and w&b (needs login):
 ```bash
 mlflow run -v 1.0.0 git@github.com:raisadz/genre_classification.git
 ```
