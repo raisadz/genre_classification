@@ -8,6 +8,6 @@ For a new release first make a tag:
 ```
 
 Run the project with MLFlow and w&b:
-'''bash
+```bash
 mlflow run -v 1.0.0 git@github.com:raisadz/genre_classification.git
-'''
+```
