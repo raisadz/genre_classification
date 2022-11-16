@@ -1,0 +1,27 @@
+{
+    "os": "Linux-5.10.16.3-microsoft-standard-WSL2-x86_64-with-glibc2.10",
+    "python": "3.8.13",
+    "heartbeatAt": "2022-11-16T14:52:27.146947",
+    "startedAt": "2022-11-16T14:52:26.426135",
+    "docker": null,
+    "cpu_count": 8,
+    "cuda": null,
+    "args": [
+        "--model_export",
+        "model_export:latest",
+        "--test_data",
+        "data_test.csv:latest"
+    ],
+    "state": "running",
+    "program": "run.py",
+    "codePath": "lesson-5-final-pipeline-release-and-deploy/exercises/exercise_14/starter/evaluate/run.py",
+    "git": {
+        "remote": "git@github.com:udacity/cd0581-building-a-reproducible-model-workflow-exercises.git",
+        "commit": "f8ceef1ef5f8d5e8ac5995dbf09d0c6d8be15827"
+    },
+    "email": "rdzhamtyrova@protonmail.com",
+    "root": "/home/raya/Documents/udacity_repo/ml_pipelines/cd0581-building-a-reproducible-model-workflow-exercises",
+    "host": "DESKTOP-KSBC683",
+    "username": "raya",
+    "executable": "/home/raya/mambaforge/envs/mlflow-d87175ad0dea1063031ee62ce8b744f0d25c6233/bin/python"
+}

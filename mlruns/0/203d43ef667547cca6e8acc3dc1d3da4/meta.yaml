@@ -1,0 +1,15 @@
+artifact_uri: file:///home/raya/Documents/udacity_repo/ml_pipelines/cd0581-building-a-reproducible-model-workflow-exercises/lesson-5-final-pipeline-release-and-deploy/exercises/exercise_14/starter/mlruns/0/203d43ef667547cca6e8acc3dc1d3da4/artifacts
+end_time: 1668608478457
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 203d43ef667547cca6e8acc3dc1d3da4
+run_name: placid-whale-21
+run_uuid: 203d43ef667547cca6e8acc3dc1d3da4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1668608462088
+status: 4
+tags: []
+user_id: raya

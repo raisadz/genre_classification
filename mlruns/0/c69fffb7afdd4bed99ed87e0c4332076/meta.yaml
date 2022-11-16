@@ -1,0 +1,15 @@
+artifact_uri: file:///home/raya/Documents/udacity_repo/ml_pipelines/cd0581-building-a-reproducible-model-workflow-exercises/lesson-5-final-pipeline-release-and-deploy/exercises/exercise_14/starter/mlruns/0/c69fffb7afdd4bed99ed87e0c4332076/artifacts
+end_time: 1668608269583
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c69fffb7afdd4bed99ed87e0c4332076
+run_name: salty-koi-298
+run_uuid: c69fffb7afdd4bed99ed87e0c4332076
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1668608256177
+status: 4
+tags: []
+user_id: raya

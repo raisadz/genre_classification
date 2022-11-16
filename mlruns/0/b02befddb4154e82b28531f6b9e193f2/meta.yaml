@@ -1,0 +1,15 @@
+artifact_uri: file:///home/raya/Documents/udacity_repo/ml_pipelines/cd0581-building-a-reproducible-model-workflow-exercises/lesson-5-final-pipeline-release-and-deploy/exercises/exercise_14/starter/mlruns/0/b02befddb4154e82b28531f6b9e193f2/artifacts
+end_time: 1668606794957
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b02befddb4154e82b28531f6b9e193f2
+run_name: chill-penguin-901
+run_uuid: b02befddb4154e82b28531f6b9e193f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1668606792997
+status: 4
+tags: []
+user_id: raya

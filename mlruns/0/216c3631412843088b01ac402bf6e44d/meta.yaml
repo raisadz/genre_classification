@@ -1,0 +1,15 @@
+artifact_uri: file:///home/raya/Documents/udacity_repo/ml_pipelines/cd0581-building-a-reproducible-model-workflow-exercises/lesson-5-final-pipeline-release-and-deploy/exercises/exercise_14/starter/mlruns/0/216c3631412843088b01ac402bf6e44d/artifacts
+end_time: 1668606734330
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 216c3631412843088b01ac402bf6e44d
+run_name: caring-dolphin-368
+run_uuid: 216c3631412843088b01ac402bf6e44d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1668606683510
+status: 3
+tags: []
+user_id: raya

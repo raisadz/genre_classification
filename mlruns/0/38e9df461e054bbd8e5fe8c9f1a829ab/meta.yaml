@@ -1,0 +1,15 @@
+artifact_uri: file:///home/raya/Documents/udacity_repo/ml_pipelines/cd0581-building-a-reproducible-model-workflow-exercises/lesson-5-final-pipeline-release-and-deploy/exercises/exercise_14/starter/mlruns/0/38e9df461e054bbd8e5fe8c9f1a829ab/artifacts
+end_time: 1668608812307
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 38e9df461e054bbd8e5fe8c9f1a829ab
+run_name: enchanting-wolf-112
+run_uuid: 38e9df461e054bbd8e5fe8c9f1a829ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1668608725065
+status: 4
+tags: []
+user_id: raya

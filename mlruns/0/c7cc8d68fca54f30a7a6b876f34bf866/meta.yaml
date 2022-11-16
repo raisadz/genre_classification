@@ -1,0 +1,15 @@
+artifact_uri: file:///home/raya/Documents/udacity_repo/ml_pipelines/cd0581-building-a-reproducible-model-workflow-exercises/lesson-5-final-pipeline-release-and-deploy/exercises/exercise_14/starter/mlruns/0/c7cc8d68fca54f30a7a6b876f34bf866/artifacts
+end_time: 1668608436782
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c7cc8d68fca54f30a7a6b876f34bf866
+run_name: intrigued-goose-27
+run_uuid: c7cc8d68fca54f30a7a6b876f34bf866
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1668608280756
+status: 3
+tags: []
+user_id: raya
