@@ -1,5 +1,5 @@
 # genre_classification
-Exercise 14 of writing an end-to-end ML pipeline with MLFLow and Wandb.
+Exercise 14 of writing an end-to-end ML pipeline with MLFLow and w&b.
 
 For a new release first make a tag:
 ```bash
